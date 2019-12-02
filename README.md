@@ -6,7 +6,7 @@
 
 Richter predictor is a team project utilizing machine learning tools and Tableau to visualize and explore recorded earthquakes in the US using USGS earthquake data. The recent phenomena of earthquake swarms in the central US are a focus of this study. ML is used to show that this disturbing trend would have been unpredictable given 60 years of national data. 
 
-Additional ML models are applied in an effort to predict earthquakes. 
+Additional ML models are applied in an effort to predict earthquakes with little success due to a lack of features in the final input data. Limited time prevented a thorough investigation in possible signs or measurements that would improve success in the models. 
 
 ### Folders & Files:
 
